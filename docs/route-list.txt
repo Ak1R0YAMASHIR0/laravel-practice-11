@@ -1,0 +1,13 @@
+
+  GET|HEAD  / ............................................................................... home › routes/web.php:14
+  GET|HEAD  about .................................................................................. routes/web.php:19
+  GET|HEAD  catalog/{id} ............................................................ catalog.show › routes/web.php:24
+  GET|HEAD  courses/{slug} .......................................................... courses.show › routes/web.php:39
+  GET|HEAD  hello/{name?} .................................................................. hello › routes/web.php:29
+  GET|HEAD  posts/{post}/comments/{comment} ........................................................ routes/web.php:34
+  GET|HEAD  storage/{path} storage.local › vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvid…
+  PUT       storage/{path} storage.local.upload › vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServic…
+  GET|HEAD  up ........... vendor/laravel/framework/src/Illuminate/Foundation/Configuration/ApplicationBuilder.php:219
+
+                                                                                                    Showing [9] routes
+
